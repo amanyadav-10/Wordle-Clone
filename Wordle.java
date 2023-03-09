@@ -29,6 +29,7 @@ public class Wordle
   public Wordle()
   {
     // Declare printInstructions method to alert user on how play the game
+//     the function will alert the user to get the instructions
     printInstructions();
 
     // Declare the game method to run the game
